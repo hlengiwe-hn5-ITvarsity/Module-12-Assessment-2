@@ -1,63 +1,63 @@
 #navbar{
-    color: white;
-    background-color: darkcyan;
+    color: rgb(155, 137, 137);
+    background-color:rgb(86, 139, 0);
     padding: 1rem;
 }
 #table{
     padding: 1rem;
 }
 #refresh{
-    color: white;
-    background-color: darkcyan;
+    color: rgb(155, 137, 137);
+    background-color: rgb(0, 139, 109);
     border-radius: 1rem; 
     padding: 0.5rem; 
     
 }
 #addContact{
-    color: white;
-    background-color: darkcyan;
+    color: rgb(155, 137, 137);
+    background-color: rgb(0, 139, 109);
     border-radius: 1rem; 
     padding: 0.5rem; 
    
 }
 #homeLink{
-    color: white;
-    background-color: darkcyan;
+    color: rgb(155, 137, 137);
+    background-color: rgb(0, 139, 109);
     border-radius: 1rem; 
     padding: 0.5rem; 
     
 }
 #submitForm{
-    color: white;
-    background-color: darkcyan;
+    color: rgb(155, 137, 137);
+    background-color:rgb(0, 139, 109) ;
     border-radius: 1rem; 
     padding: 0.5rem;    
 }
 #editContact{
-    color: white;
-    background-color: darkcyan;
+    color: rgb(155, 137, 137);
+    background-color: rgb(0, 139, 109);
     border-radius: 1rem; 
     padding: 0.5rem;    
 }
 #deleteContact{
-    color: white;
-    background-color: darkcyan;
+    color:rgb(155, 137, 137) ;
+    background-color:rgb(0, 139, 109) ;
     border-radius: 1rem; 
     padding: 0.5rem;    
 }
 #firstname{
     border-radius: 1rem;
-    border-style: dotted;
+    border-style: line;
 }
 #lastname{
     border-radius: 1rem;
-    border-style: dotted;
+    border-style: line;
 }
 #mobile{
     border-radius: 1rem;
-    border-style: dotted;
+    border-style: line;
 }
 #email{
     border-radius: 1rem;
-    border-style: dotted;
+    border-style: line;
 }
